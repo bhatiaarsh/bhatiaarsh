@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Arshpreet Kaur
 
-A passionate **Full-Stack Web Developer** and final-year BCA student focused on building practical, user-centric web applications from scratch.
+A passionate **Full-Stack Web Developer** and MCA student focused on building practical, user-centric web applications from scratch.
 
 ---
 

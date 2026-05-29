@@ -19,5 +19,5 @@ A passionate **Full-Stack Web Developer** and final-year BCA student focused on 
 * **Quote Generator:** A fully responsive, clean frontend interface.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/arshpreet-kaur-334108292/) 
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/arshpreet-kaur-334108292/) 
 * **GitHub:** [github.com/bhatiaarsh](https://github.com/bhatiaarsh/bhatiaarsh/)
